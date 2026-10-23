@@ -57,7 +57,7 @@ The system follows a **relational database architecture**.
 
 ---
 
-## ERD
+## Schema
 
 The Entity Relationship Diagram represents the relationships between patients, billing accounts, healthcare transactions, fee rules, and audit records.
 
